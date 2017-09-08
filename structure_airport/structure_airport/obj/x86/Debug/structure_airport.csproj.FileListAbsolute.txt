@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Projects\structure_airport\structure_airport\bin\Debug\structure_airport.exe
+C:\Users\HP\Documents\Projects\structure_airport\structure_airport\bin\Debug\structure_airport.pdb
+C:\Users\HP\Documents\Projects\structure_airport\structure_airport\obj\x86\Debug\structure_airport.exe
+C:\Users\HP\Documents\Projects\structure_airport\structure_airport\obj\x86\Debug\structure_airport.pdb
+E:\works precious\C# Projects\structure_airport\structure_airport\obj\x86\Debug\structure_airport.exe
+E:\works precious\C# Projects\structure_airport\structure_airport\obj\x86\Debug\structure_airport.pdb
